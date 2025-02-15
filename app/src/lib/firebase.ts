@@ -10,7 +10,7 @@ import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 
 const firebaseConfig: FirebaseOptions = {
-  apiKey: import.meta.env.VITE_APP_FIREBASE_API_KEY as string,
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY as string,
 
   authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN as string,
 
@@ -29,5 +29,4 @@ const app: FirebaseApp = initializeApp(firebaseConfig);
 // Initialise Firebase
 const firebaseAuth = getAuth(app);
 
-
-export {app, firebaseAuth}
+export { app, firebaseAuth };
