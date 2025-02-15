@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 512 512" xml:space="preserve">
+<path style="fill:#415E72;" d="M18.008,385.6V84.36c0.096-5.304,4.368-9.576,9.672-9.672h456.64
+	c5.304,0.096,9.576,4.368,9.672,9.672V385.6H18.008z"/>
+<g>
+	<path style="fill:#CFDCE5;" d="M493.992,385.6v38.64c-0.096,5.304-4.368,9.576-9.672,9.672H27.68
+		c-5.304-0.096-9.576-4.368-9.672-9.672V385.6H493.992z"/>
+	<rect x="154.112" y="502.328" style="fill:#CFDCE5;" width="203.784" height="9.672"/>
+</g>
+<polygon style="fill:#AEC4CE;" points="323.68,502.328 188.32,502.328 197.992,433.912 314.008,433.912 "/>
+<rect x="37.344" y="94.024" style="fill:#FFFFFF;" width="437.312" height="272.16"/>
+<polygon style="fill:#94A7AF;" points="314.008,433.912 197.992,433.912 192.592,472.096 315.744,446.2 "/>
+<polygon style="fill:#FFD07D;" points="218.28,332.36 87.432,332.36 87.432,0 218.28,0 218.28,32.072 "/>
+<g>
+	<rect x="168.8" y="21.816" style="fill:#FFFFFF;" width="49.496" height="8"/>
+	<rect x="193.52" y="49.888" style="fill:#FFFFFF;" width="24.752" height="8"/>
+	<rect x="168.8" y="77.96" style="fill:#FFFFFF;" width="49.496" height="8"/>
+	<rect x="193.52" y="106.04" style="fill:#FFFFFF;" width="24.752" height="8"/>
+	<rect x="168.8" y="134.112" style="fill:#FFFFFF;" width="49.496" height="8"/>
+	<rect x="193.52" y="162.176" style="fill:#FFFFFF;" width="24.752" height="8"/>
+	<rect x="168.8" y="190.248" style="fill:#FFFFFF;" width="49.496" height="8"/>
+	<rect x="193.52" y="218.32" style="fill:#FFFFFF;" width="24.752" height="8"/>
+	<rect x="168.8" y="246.4" style="fill:#FFFFFF;" width="49.496" height="8"/>
+	<rect x="168.8" y="302.536" style="fill:#FFFFFF;" width="49.496" height="8"/>
+	<rect x="193.52" y="274.48" style="fill:#FFFFFF;" width="24.752" height="8"/>
+</g>
+<polygon style="fill:#F9B53D;" points="111.096,332.36 87.432,332.36 87.432,0 111.096,0 111.096,32.072 "/>
+<polygon style="fill:#CFDCE5;" points="250.376,308.728 314.184,275.768 424.568,101.48 363.28,62.664 252.896,236.952 "/>
+<g>
+	<polyline style="fill:#415E72;" points="251.76,269.368 250.376,308.728 285.368,290.656 	"/>
+	
+		<rect x="368.457" y="79.823" transform="matrix(0.5351 -0.8448 0.8448 0.5351 75.0151 368.5178)" style="fill:#415E72;" width="7.744" height="72.561"/>
+	
+		<rect x="241.7" y="144.023" transform="matrix(0.5351 -0.8448 0.8448 0.5351 1.868 364.0017)" style="fill:#415E72;" width="179.906" height="72.561"/>
+</g>
+<rect x="358.403" y="65.324" transform="matrix(0.5351 -0.8448 0.8448 0.5351 91.5416 369.5511)" style="fill:#E04F5F;" width="46.256" height="72.561"/>
+<g style="opacity:0.25;">
+	<polygon style="fill:#FFFFFF;" points="250.376,308.728 395.072,82.8 363.28,62.664 252.92,236.912 	"/>
+</g>
+</svg>
