@@ -2,6 +2,8 @@ import { Card } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import React from "react";
 import { useForm, SubmitHandler } from "react-hook-form";
+import { signInWithEmailAndPassword } from "firebase/auth";
+import { app, firebaseAuth } from "../lib/firebase";
 
 type LoginInformation = {
   username: string;
@@ -10,7 +12,12 @@ type LoginInformation = {
 
 function Login() {
   const { register, handleSubmit, watch } = useForm<LoginInformation>();
-  const onSubmit: SubmitHandler<LoginInformation> = (data) => console.log(data);
+  const onSubmit: SubmitHandler<LoginInformation> = (data) => signInWithEmailAndPassword(firebaseAuth, data.username, data.password).then((userCredential) =>{
+    const user = userCredential.user
+  }).catch((error) => {
+    const errorCode = error.code;
+    const errorMessage = error.message;
+  });
 
   return (
     <form className="w-full h-full flex flex-col justify-center items-center" onSubmit={handleSubmit(onSubmit)}>
